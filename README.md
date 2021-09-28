@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Thiru-cse
-- 👀 I’m interested in Web developer & ML
+- 👀 I’m interested in Web developement & ML
 - 🌱 I’m currently learning FullStack-Developement
 - 💞️ I’m completed Computer Science Engineering
 - 📫 How to reach me @Email:- thiru.c.cse@gmail.com
