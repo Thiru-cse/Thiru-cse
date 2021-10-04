@@ -25,4 +25,4 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thiru-cse&show_icons=true&locale=en" alt="thiru-cse" /></p>
+<a><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thiru-cse&show_icons=true&locale=en" alt="thiru-cse" /></p></a>
