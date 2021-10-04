@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thiru</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
-- 🌱 I’m currently learning **Fullstack developing**
+- 🌱 I’m currently learning **Fullstack developement**
 
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT**
 
