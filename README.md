@@ -29,6 +29,6 @@
 <a href="https://github.com/Thiru-cse">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Thiru-cse&count_private=true&show_icons=true&theme=default" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/Thiru-cse">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiru-cse&theme=default" />
 </a>
