@@ -26,10 +26,14 @@
 <a href = 'https://www.linkedin.com/in/thiru-c-3085391a5/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.twitter.com/thiru_cse_'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://www.github.com/Thiru-cse'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
-
+<br>
 <br>
 
+
 <h2><b>My Technical & All Over Skills..📝</b> </h2>
+
+
+
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
@@ -49,7 +53,6 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Thiru-cse&count_private=true&show_icons=true&theme=default" />
 </a>
 <br>
-
 <a href="https://github.com/Thiru-cse">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiru-cse&theme=default" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiru-cse&theme=default" />
 </a>
