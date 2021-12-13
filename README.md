@@ -49,10 +49,9 @@
 
 <h2> <b>My GitHub Status 👨‍💻 </b> </h2>
 
-<a href="https://github.com/Thiru-cse">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Thiru-cse&count_private=true&show_icons=true&theme=default" />
-</a>
-<br>
-<a href="https://github.com/Thiru-cse">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiru-cse&theme=default" />
-</a>
+
+![Thiru's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiru-cse&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiru-cse&show_icons=true&theme=radical&layout=compact)](https://github.com/Thiru-cse/github-readme-stats)
+
+
