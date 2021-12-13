@@ -54,4 +54,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiru-cse&show_icons=true&theme=radical&layout=compact)](https://github.com/Thiru-cse)
 
+<h3 align= 'center' style="color: fuchsia"><b>Thanks for watching My Repo!!😍💖</b></h3>
+
 
