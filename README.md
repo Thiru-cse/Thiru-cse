@@ -11,7 +11,7 @@
 
 - 📫 How to reach me <a href="mailto:thiru.c.cse@gmail.com">**thiru.c.cse@gmail**</a>
   
-- 🚩 Fun Fact:Love Nature🌎
+- 🚩 Fun Fact: Love Nature🌎
   
 
 <h2><b>My Skills 🚀 </b> </h2>
@@ -52,6 +52,6 @@
 
 ![Thiru's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiru-cse&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiru-cse&show_icons=true&theme=radical&layout=compact)](https://github.com/Thiru-cse/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiru-cse&show_icons=true&theme=radical&layout=compact)](https://github.com/Thiru-cse)
 
 
