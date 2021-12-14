@@ -1,5 +1,7 @@
 <h1 align="center">Hi!  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>, I'm Thiru</h1>
-<h3 align="center"><b>A passionate Fullstack Developer</b></h3>
+<h3 align="center"><b>A Passionate Fullstack Developer (M.E.R.N)</b></h3>
+
+<img src="./Profile/Github%20Readme.png">
 
 
 
@@ -11,7 +13,7 @@
 
 - 📫 How to reach me <a href="mailto:thiru.c.cse@gmail.com">**thiru.c.cse@gmail**</a>
   
-- 🚩 Fun Fact: Love Nature🌎
+- 🚩 Fun Fact: Right Now, I'm reading about🌎
   
 
 <h2><b>My Skills 🚀 </b> </h2>
@@ -30,7 +32,7 @@
 <br>
 
 
-<h2><b>My Technical & All Over Skills..📝</b> </h2>
+<h2><b>My Technical & All Over Skills⚡</b> </h2>
 
 
 
