@@ -1,11 +1,11 @@
-<h1 align="center">Hi!  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>, I'm Thiru</h1>
-<h3 align="center"><b>A Passionate Fullstack Developer (M.E.R.N)</b></h3>
+<h1 align="center">Hi!  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>, Welcome All..💝</h1>
+<h3 align="center"><b>A Passionate Fullstack Developer😎 </b></h3>
 
 <img src="./Profile/Github%20Readme.png">
 
 
 
-- 💻 I’m currently working on **Fullstack developement** 
+- 💻 I’m currently working on **Fullstack developement(MERN)** 
   
 - 🌱 I’m currently learning **Backend** 
 
