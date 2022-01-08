@@ -13,7 +13,7 @@
 
 - 📫 How to reach me <a href="mailto:thiru.c.cse@gmail.com">**thiru.c.cse@gmail**</a>
   
-- 🚩 Fun Fact: Right Now, I'm reading about🌎
+- 🚩 Fun Fact: The first computer “bug” was an actual real-life bug🤔🖥
   
 
 <h2><b>My Skills 🚀 </b> </h2>
