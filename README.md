@@ -1,4 +1,4 @@
-<h1 align="center">Hi!  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height=20px width = 10px>, Welcome All..💝</h1>
+<h1 align="center">Hi!  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height=50px width = 10px>, Welcome All..💝</h1>
 <h3 align="center"><b>A Passionate Fullstack Developer </b></h3>
 
 <img src="./Profile/Github%20Readme.png">
