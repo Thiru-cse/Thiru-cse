@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Thiru 👋</h1>
 
 <h3 align="center">
-Full Stack Developer | MERN Stack | Backend Development
+Full Stack Developer | Backend Engineer | MERN Stack
 </h3>
 
 <p align="center">
@@ -23,7 +23,7 @@ I build scalable web applications, backend APIs, and production-ready features u
 ## About Me
 
 - Full Stack Developer with experience in MERN stack development
-- Currently working in the education technology domain
+- Currently building scalable LMS platforms in the EdTech domain
 - Experienced in building backend APIs, LMS features, admin workflows, and production-level web applications
 - Strong focus on clean code, scalable backend development, MongoDB data handling, and API design
 - Continuously improving in System Design, DSA, and modern full stack engineering practices
