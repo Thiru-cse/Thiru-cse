@@ -16,7 +16,7 @@ I build scalable web applications, backend APIs, and production-ready features u
 
 ---
 
-<img src="./Profile/Github%20Readme.png" alt="Thiru GitHub Banner" />
+/*<img src="./Profile/Github%20Readme.png" alt="Thiru GitHub Banner" />*/
 
 ---
 
