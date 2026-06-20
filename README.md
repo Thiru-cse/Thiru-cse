@@ -9,9 +9,12 @@ I build scalable web applications, backend APIs, and production-ready features u
 </p>
 
 <p align="center">
-  <a href="mailto:thiru.c.cse@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/thiru-fullstack/">LinkedIn</a> •
-  <a href="https://github.com/Thiru-cse">GitHub</a>
+  <a href="mailto:thiru.c.cse@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/thiru-fullstack/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -88,22 +91,4 @@ I build scalable web applications, backend APIs, and production-ready features u
 
 ---
 
-## Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/thiru-fullstack/">
-    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" />
-  </a>
-  &nbsp;
-  <a href="https://www.twitter.com/thiru_cse_">
-    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg" />
-  </a>
-  &nbsp;
-  <a href="https://www.github.com/Thiru-cse">
-    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" />
-  </a>
-</p>
-
----
-
-<h3 align="center">Thanks for visiting my GitHub profile!</h3>
+<h3 align="center">Thanks for visiting My GitHub Profile!</h3>
